@@ -25,6 +25,7 @@ executing==2.1.0
 folium==0.18.0
 fonttools==4.53.1
 future==0.18.3
+gdal
 GDAL==3.9.1
 geemap==0.35.1
 geocoder==1.38.1
