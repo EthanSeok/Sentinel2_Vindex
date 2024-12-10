@@ -2,3 +2,7 @@ streamlit
 earthengine-api
 geemap
 pandas
+plotly
+numpy
+folium
+requests
