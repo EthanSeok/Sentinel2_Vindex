@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  web_unbong:
+    build: .
+    volumes:
+      - ./:/usr/src/app/
+    ports:
+      - 8200:8200
+    command: streamlit run app.py --server.port 8200
